@@ -7,9 +7,9 @@ The data is masked bio data. I have applied various classification algorithms an
 Cited as:
     
     @article{zakershahrak2021,
-      title={"Advanced classification techniques for imbalanced data"},
-      author={Mehrdad Zakershahrak},
-      journal={https://github.com/mehrdadzakershahrak},
-      year={2021}
-      url = {https://github.com/mehrdadzakershahrak/Advanced-Classification-Techniques.git}
+      title="Advanced classification techniques for imbalanced data",
+      author="Mehrdad Zakershahrak",
+      journal="https://github.com/mehrdadzakershahrak",
+      year="2021",
+      url = "https://github.com/mehrdadzakershahrak/Advanced-Classification-Techniques.git"
     }
